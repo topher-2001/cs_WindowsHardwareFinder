@@ -1,0 +1,30 @@
+======= CPU =======
+CPU = AMD Ryzen 5 3600 6-Core Processor              
+Thread Count = 12
+Core Count = 6
+======= GPU =======
+GPU = AMD Radeon(TM) RX 560 Series
+Display = 1920 x 1080 x 4294967296 colors
+Current Refresh Rate = 59
+Max Refresh Rate = 70
+Min Refresh Rate = 50
+Processor = AMD Radeon Graphics Processor (0x67EF)
+======= RAM BANK 0 =======
+Manufacturer = Patriot
+Clock Speed = 2666
+Capacity = 4GB
+SMBIOS Type = 26
+======= RAM BANK 1 =======
+Manufacturer = Patriot
+Clock Speed = 2666
+Capacity = 4GB
+SMBIOS Type = 26
+======= MOTHER BOARD =======
+Manufacturer = ASUSTeK COMPUTER INC.
+Type = PRIME A320M-K
+======= SYSTEM =======
+OS Caption = Microsoft Windows 10 Pro
+Version = 10.0.19041
+Manufacturer = Microsoft Corporation
+Architecture = 64-bit
+Admin = Fidelis
